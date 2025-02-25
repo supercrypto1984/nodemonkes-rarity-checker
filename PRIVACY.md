@@ -1,6 +1,6 @@
 # Privacy Policy for NodeMonkes Rarity Checker
 
-Last Updated: [Current Date]
+Last Updated: [2025/2/25]
 
 ## Overview
 NodeMonkes Rarity Checker is a browser extension that displays rarity information for NodeMonkes NFTs on the Magic Eden marketplace. We are committed to protecting your privacy and ensuring transparency about our data practices.
