@@ -31,4 +31,4 @@ This privacy policy may be updated to reflect changes in our practices. Users wi
 For questions about this privacy policy, please create an issue in our GitHub repository.
 
 ## Source Code
-This extension is open source. You can view the source code at: [Repository URL]
+This extension is open source. You can view the source code at: [[Repository URL](https://github.com/supercrypto1984/nodemonkes-rarity-checker)]
